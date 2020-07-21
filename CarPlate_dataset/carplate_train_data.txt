@@ -1,0 +1,231 @@
+CarPlate_dataset/images/car01021.PNG 31,86,506,505,0 174,397,368,447,1
+CarPlate_dataset/images/car0103.PNG 9,15,453,267,0 284,180,381,205,1
+CarPlate_dataset/images/car0104.PNG 67,50,673,452,0 472,326,596,361,1
+CarPlate_dataset/images/car0105.PNG 1,8,522,406,0 91,295,254,356,1
+CarPlate_dataset/images/car0106.PNG 33,14,385,269,0 140,116,233,168,1
+CarPlate_dataset/images/car0107.PNG 34,109,901,633,0 614,441,783,488,1
+CarPlate_dataset/images/car0108.PNG 103,15,519,312,0 354,218,457,246,1
+CarPlate_dataset/images/car0109.PNG 79,24,359,305,0 172,247,267,274,1
+CarPlate_dataset/images/car0112.PNG 165,147,763,642,0 856,124,945,204,0 712,127,795,178,0 670,126,719,172,0 793,127,863,163,0 1,202,128,482,0 392,404,533,471,1
+CarPlate_dataset/images/car0113.PNG 1,1,857,606,0 726,1,811,49,0 307,254,542,366,1
+CarPlate_dataset/images/car0114.PNG 28,25,238,168,0 94,83,173,105,1
+CarPlate_dataset/images/car0115.PNG 116,70,597,387,0 277,197,454,238,1
+CarPlate_dataset/images/car0116.PNG 30,28,365,266,0 142,10,184,29,0 141,172,255,201,1
+CarPlate_dataset/images/car0117.PNG 85,81,824,718,0 803,310,902,433,0 377,350,534,430,1 854,389,902,411,1
+CarPlate_dataset/images/car0118.PNG 26,1,461,292,0 164,123,272,187,1
+CarPlate_dataset/images/car0119.PNG 54,20,232,157,0 231,1,291,140,0 1,10,56,147,0 121,125,162,145,1
+CarPlate_dataset/images/car0202.png 53,357,513,700,0 200,542,368,584,1
+CarPlate_dataset/images/car0203.png 59,367,505,763,0 489,387,540,445,0 219,631,330,693,1
+CarPlate_dataset/images/car0204.png 84,410,460,722,0 199,636,333,667,1
+CarPlate_dataset/images/car0205.png 61,338,525,739,0 193,639,362,691,1
+CarPlate_dataset/images/car0206.png 77,357,456,712,0 195,612,343,652,1
+CarPlate_dataset/images/car0207.png 54,376,469,735,0 183,643,332,687,1
+CarPlate_dataset/images/car0208.png 49,324,488,705,0 170,611,350,659,1
+CarPlate_dataset/images/car0209.png 33,331,518,707,0 184,616,357,672,1
+CarPlate_dataset/images/car0210.png 50,327,489,680,0 186,595,348,639,1
+CarPlate_dataset/images/car0211.png 24,301,513,700,0 180,580,359,628,1
+CarPlate_dataset/images/car0214.png 74,331,472,681,0 194,582,351,627,1
+CarPlate_dataset/images/car0215.png 44,352,480,702,0 176,605,328,650,1
+CarPlate_dataset/images/car0216.png 50,340,462,685,0 187,582,328,623,1
+CarPlate_dataset/images/car0217.png 43,332,503,713,0 184,600,355,650,1
+CarPlate_dataset/images/car0218.png 37,341,495,717,0 169,628,330,671,1
+CarPlate_dataset/images/car0219.png 48,328,471,713,0 437,255,540,574,0 177,607,344,652,1
+CarPlate_dataset/images/car0220.png 70,299,533,716,0 1,365,81,627,0 240,591,358,647,1
+CarPlate_dataset/images/car0301.png 134,191,672,654,0 465,90,560,141,0 308,568,500,623,1
+CarPlate_dataset/images/car0302.png 131,286,581,662,0 78,308,153,350,0 286,467,455,521,1
+CarPlate_dataset/images/car0303.png 153,289,588,623,0 311,535,460,576,1
+CarPlate_dataset/images/car0304.png 1,1,719,621,0 271,486,450,572,1
+CarPlate_dataset/images/car0307.png 30,239,540,694,0 275,606,446,653,1
+CarPlate_dataset/images/car0308.png 1,225,540,748,0 156,629,371,689,1
+CarPlate_dataset/images/car0309.png 23,256,540,712,0 199,492,389,551,1
+CarPlate_dataset/images/car0310.png 3,62,721,832,0 199,521,537,601,1
+CarPlate_dataset/images/car0311.png 2,47,721,728,0 261,478,440,571,1
+CarPlate_dataset/images/car0312.png 30,210,637,679,0 633,255,721,307,0 233,411,472,491,1
+CarPlate_dataset/images/car0313.png 28,307,500,693,0 198,592,363,635,1
+CarPlate_dataset/images/car0316.png 20,197,680,737,0 251,491,493,556,1
+CarPlate_dataset/images/car0317.png 49,125,668,687,0 243,588,472,644,1
+CarPlate_dataset/images/car0318.png 78,170,662,690,0 309,440,454,517,1
+CarPlate_dataset/images/car0319.png 43,187,675,739,0 246,505,480,572,1
+CarPlate_dataset/images/car0320.png 21,215,704,789,0 241,618,483,683,1
+CarPlate_dataset/images/car0401.png 16,115,999,999,0 348,808,708,884,1
+CarPlate_dataset/images/car0402.png 18,205,1068,1101,0 386,912,765,1009,1
+CarPlate_dataset/images/car0403.png 6,215,1044,1076,0 352,888,718,971,1
+CarPlate_dataset/images/car0406.png 31,95,991,975,0 342,772,706,865,1
+CarPlate_dataset/images/car0407.png 36,125,1061,1026,0 385,881,762,978,1
+CarPlate_dataset/images/car0408.png 18,209,1081,1064,0 368,631,759,746,1
+CarPlate_dataset/images/car0409.png 62,149,958,1011,0 358,826,694,909,1
+CarPlate_dataset/images/car0410.png 21,185,988,1012,0 311,844,681,935,1
+CarPlate_dataset/images/car0411.png 26,188,1048,1079,0 375,902,754,991,1
+CarPlate_dataset/images/car0412.png 11,155,1019,1084,0 355,915,728,998,1
+CarPlate_dataset/images/car0413.png 12,119,1022,1012,0 338,822,704,916,1
+CarPlate_dataset/images/car0414.png 45,114,1045,974,0 348,752,715,841,1
+CarPlate_dataset/images/car0415.png 11,222,1012,1029,0 998,298,1081,384,0 336,626,725,751,1
+CarPlate_dataset/images/car0418.png 6,176,1064,1078,0 336,665,744,772,1
+CarPlate_dataset/images/car0419.png 44,251,1032,989,0 344,769,735,889,1
+CarPlate_dataset/images/car0420.png 5,204,1075,1055,0 322,852,722,961,1
+CarPlate_dataset/images/car0501.png 26,262,1005,1105,0 322,929,714,1035,1
+CarPlate_dataset/images/car0502.png 46,344,978,1131,0 392,946,749,1082,1
+CarPlate_dataset/images/car0503.png 99,342,1049,1135,0 398,958,776,1074,1
+CarPlate_dataset/images/car0504.png 19,228,905,1126,0 354,869,715,1002,1
+CarPlate_dataset/images/car0505.png 181,281,949,955,0 436,816,726,892,1
+CarPlate_dataset/images/car0506.png 145,316,896,978,0 451,852,636,949,1
+CarPlate_dataset/images/car0507.png 165,354,876,945,0 414,819,658,899,1
+CarPlate_dataset/images/car0510.png 95,254,879,884,0 609,232,735,331,0 396,721,669,815,1
+CarPlate_dataset/images/car0511.png 128,299,941,988,0 425,828,732,921,1
+CarPlate_dataset/images/car0512.png 48,198,988,1026,0 811,174,998,265,0 665,186,841,276,0 381,821,751,944,1
+CarPlate_dataset/images/car0513.png 44,99,885,991,0 368,796,621,936,1
+CarPlate_dataset/images/car0514.png 119,336,854,945,0 351,778,622,849,1
+CarPlate_dataset/images/car0515.png 16,272,942,1108,0 736,318,1080,554,0 335,928,691,1008,1 979,461,1080,504,1
+CarPlate_dataset/images/car0516.png 118,319,834,998,0 712,321,981,535,0 331,842,625,909,1 841,418,918,449,1
+CarPlate_dataset/images/car0517.png 195,325,905,1039,0 382,856,681,951,1
+CarPlate_dataset/images/car0518.png 1,309,909,1054,0 345,894,575,1008,1
+CarPlate_dataset/images/car0519.png 29,252,1048,1129,0 339,974,736,1082,1
+CarPlate_dataset/images/car0520.png 84,356,888,1006,0 761,341,1080,672,0 41,345,214,469,0 344,695,635,769,1
+CarPlate_dataset/images/car0601.png 362,906,1041,1477,0 647,1173,799,1250,1
+CarPlate_dataset/images/car0614.png 361,378,1801,1136,0 402,775,556,886,1
+CarPlate_dataset/images/car0618.png 164,502,1792,1082,0
+CarPlate_dataset/images/car0619.png 611,619,1355,1099,0 719,964,818,1024,1
+CarPlate_dataset/images/car0620.png 455,991,841,1270,0 626,1173,741,1216,1
+CarPlate_dataset/images/car0801.png 39,131,689,717,0 272,536,473,589,1
+CarPlate_dataset/images/car0802.png 34,214,673,700,0 311,416,497,467,1
+CarPlate_dataset/images/car0803.png 48,152,714,752,0 269,419,505,483,1
+CarPlate_dataset/images/car0804.png 19,112,666,661,0 237,349,453,408,1
+CarPlate_dataset/images/car0805.png 27,32,658,609,0 310,459,450,534,1
+CarPlate_dataset/images/car0808.png 58,169,716,696,0 267,547,482,608,1
+CarPlate_dataset/images/car0809.png 34,129,642,650,0 232,487,432,542,1
+CarPlate_dataset/images/car0810.png 43,52,720,693,0 287,447,513,519,1
+CarPlate_dataset/images/car0811.png 2,43,720,692,0 205,498,467,576,1
+CarPlate_dataset/images/car0812.png 13,83,720,738,0 295,568,548,637,1
+CarPlate_dataset/images/car0813.png 1,127,701,709,0 293,537,507,587,1
+CarPlate_dataset/images/car0814.png 12,130,720,780,0 243,572,487,636,1
+CarPlate_dataset/images/car0815.png 28,150,720,747,0 241,453,474,507,1
+CarPlate_dataset/images/car0816.png 39,74,699,732,0 191,588,451,664,1
+CarPlate_dataset/images/car0817.png 23,70,693,655,0 250,489,475,553,1
+CarPlate_dataset/images/car0818.png 1,79,708,704,0 238,537,489,598,1
+CarPlate_dataset/images/car0819.png 36,128,677,687,0 273,378,434,458,1
+CarPlate_dataset/images/car0820.png 14,79,720,687,0 218,547,464,618,1
+CarPlate_dataset/images/car0901.png 63,205,667,687,0 262,565,457,610,1
+CarPlate_dataset/images/car0902.png 66,199,649,698,0 231,552,434,607,1
+CarPlate_dataset/images/car0903.png 85,162,673,598,0 563,167,656,248,0 298,493,491,547,1 595,200,630,217,1
+CarPlate_dataset/images/car0904.png 66,201,662,643,0 504,199,653,296,0 279,514,480,571,1
+CarPlate_dataset/images/car0905.png 93,139,666,670,0 301,516,504,572,1
+CarPlate_dataset/images/car0906.png 55,108,636,607,0 232,464,433,516,1
+CarPlate_dataset/images/car0907.png 54,196,667,678,0 258,545,452,588,1
+CarPlate_dataset/images/car0908.png 27,120,631,721,0 228,483,413,534,1
+CarPlate_dataset/images/car0909.png 98,251,557,633,0 249,508,395,547,1
+CarPlate_dataset/images/car0910.png 53,194,608,654,0 231,516,416,568,1
+CarPlate_dataset/images/car0913.png 65,147,603,621,0 236,465,418,513,1
+CarPlate_dataset/images/car0914.png 105,166,676,612,0 292,367,475,416,1
+CarPlate_dataset/images/car0915.png 89,234,605,649,0 331,523,438,587,1
+CarPlate_dataset/images/car0916.png 44,233,623,697,0 239,537,358,611,1
+CarPlate_dataset/images/car0917.png 43,207,665,715,0 243,542,442,593,1
+CarPlate_dataset/images/car0918.png 36,72,644,638,0 246,324,438,377,1
+CarPlate_dataset/images/car0919.png 95,153,655,645,0 266,347,444,394,1
+CarPlate_dataset/images/car0920.png 42,160,655,648,0 260,397,480,464,1
+CarPlate_dataset/images/car1101.png 31,3,202,178,0 91,139,148,155,1
+CarPlate_dataset/images/car1102.png 32,24,195,172,0 88,124,139,140,1
+CarPlate_dataset/images/car1103.png 37,11,212,180,0 92,125,155,141,1
+CarPlate_dataset/images/car1104.png 5,5,225,179,0 75,140,150,157,1
+CarPlate_dataset/images/car1105.png 30,31,201,181,0 83,130,141,146,1 201,97,216,103,1
+CarPlate_dataset/images/car1106.png 15,19,211,175,0 110,125,165,140,1
+CarPlate_dataset/images/car1107.png 23,11,210,178,0 86,138,150,154,1
+CarPlate_dataset/images/car1108.png 19,52,214,163,0 39,120,74,135,1
+CarPlate_dataset/images/car1109.png 18,35,219,171,0 44,112,85,127,1
+CarPlate_dataset/images/car1110.png 33,23,199,172,0 87,130,145,145,1
+CarPlate_dataset/images/car1111.png 29,26,209,160,0 65,109,109,123,1
+CarPlate_dataset/images/car1112.png 43,21,194,163,0 195,26,231,74,0 20,25,71,76,0 95,126,146,140,1
+CarPlate_dataset/images/car1113.png 42,39,192,170,0 92,131,141,145,1
+CarPlate_dataset/images/car1114.png 34,26,210,164,0 62,105,108,118,1
+CarPlate_dataset/images/car1115.png 20,12,205,177,0 83,125,145,142,1
+CarPlate_dataset/images/car1116.png 42,46,199,171,0 77,128,120,142,1
+CarPlate_dataset/images/car1117.png 33,15,209,175,0 93,136,151,151,1
+CarPlate_dataset/images/car1120.png 36,20,225,178,0 101,118,160,135,1
+CarPlate_dataset/images/car1201.png 1,221,682,837,0 232,722,509,796,1
+CarPlate_dataset/images/car1202.png 103,257,601,730,0 268,622,471,671,1
+CarPlate_dataset/images/car1203.png 141,240,628,709,0 357,581,539,647,1
+CarPlate_dataset/images/car1204.png 94,276,634,743,0 475,247,615,351,0 1,275,93,333,0 298,639,508,690,1
+CarPlate_dataset/images/car1205.png 50,291,619,797,0 225,691,452,739,1
+CarPlate_dataset/images/car1206.png 14,209,721,847,0 472,199,651,334,0 234,722,537,808,1 533,267,586,298,1
+CarPlate_dataset/images/car1207.png 35,274,673,827,0 234,735,492,791,1
+CarPlate_dataset/images/car1208.png 39,248,674,788,0 273,677,516,739,1
+CarPlate_dataset/images/car1209.png 108,223,706,720,0 324,631,533,683,1
+CarPlate_dataset/images/car1210.png 57,244,687,753,0 282,657,506,707,1
+CarPlate_dataset/images/car1211.png 111,294,718,812,0 311,707,558,765,1
+CarPlate_dataset/images/car1212.png 68,287,648,769,0 287,683,487,730,1
+CarPlate_dataset/images/car1213.png 88,361,633,811,0 272,707,468,752,1
+CarPlate_dataset/images/car1214.png 78,368,579,803,0 227,721,412,767,1 119,427,173,443,1
+CarPlate_dataset/images/car1215.png 32,307,721,961,0 281,829,483,917,1
+CarPlate_dataset/images/car1216.png 3,265,683,836,0 190,696,466,765,1
+CarPlate_dataset/images/car1217.png 112,279,674,787,0 624,295,679,326,0 309,703,522,747,1
+CarPlate_dataset/images/car1218.png 47,290,688,827,0 533,327,707,457,0 597,427,662,447,1 272,740,512,803,1
+CarPlate_dataset/images/car1219.png 53,303,593,782,0 1,283,154,438,0 219,683,434,735,1 15,382,83,403,1
+CarPlate_dataset/images/car1220.png 107,89,540,475,0 251,397,400,434,1
+CarPlate_dataset/images/car1401.png 459,278,2414,2536,0 2093,1133,2332,1690,1
+CarPlate_dataset/images/car1402.png 744,308,3174,2951,0 2574,930,2920,1966,1
+CarPlate_dataset/images/car1405.png 441,142,2817,2845,0 2365,945,2611,1936,1
+CarPlate_dataset/images/car1406.png 705,299,3026,2857,0 2468,1008,2738,1990,1
+CarPlate_dataset/images/car1407.png 526,266,2611,2690,0 2238,1123,2550,1754,1
+CarPlate_dataset/images/car1408.png 435,245,2702,2833,0 2238,975,2477,1866,1
+CarPlate_dataset/images/car1409.png 538,314,2565,2581,0 2059,851,2287,1684,1
+CarPlate_dataset/images/car1410.png 656,363,2750,2827,0 2359,1230,2541,2066,1
+CarPlate_dataset/images/car1411.png 653,120,2614,2530,0 2338,860,2583,1754,1
+CarPlate_dataset/images/car1412.png 829,214,2905,2490,0 2538,960,2862,1593,1
+CarPlate_dataset/images/car1413.png 535,433,2590,2875,0 2262,1102,2529,2069,1
+CarPlate_dataset/images/car1414.png 332,148,2696,2805,0 2347,878,2587,1927,1
+CarPlate_dataset/images/car1415.png 435,466,2571,2639,0 2111,1105,2323,1987,1
+CarPlate_dataset/images/car1416.png 532,487,2368,2627,0 1929,1184,2090,1881,1
+CarPlate_dataset/images/car1417.png 732,481,2359,2423,0 2071,1087,2235,1742,1
+CarPlate_dataset/images/car1418.png 590,690,2235,2478,0 1880,1223,2047,1866,1
+CarPlate_dataset/images/car1419.png 490,175,2502,2508,0 2156,884,2323,1693,1
+CarPlate_dataset/images/car1420.png 577,293,2671,2699,0 2153,905,2417,1775,1
+CarPlate_dataset/images/car1601.png 831,1,3139,2149,0 1533,1695,2466,1909,1
+CarPlate_dataset/images/car1602.png 1,1,2771,2098,0 1096,1493,1877,1674,1
+CarPlate_dataset/images/car1603.png 674,1,3271,2117,0 1490,1844,2450,2031,1
+CarPlate_dataset/images/car1604.png 696,1,3087,2131,0 1404,1636,2341,1858,1
+CarPlate_dataset/images/car1605.png 1087,247,2701,1549,0 1,249,1109,1479,0 1560,1241,2139,1385,1
+CarPlate_dataset/images/car1606.png 725,1,2871,1493,0 2879,1,4032,1471,0 1566,722,2090,1014,1
+CarPlate_dataset/images/car1607.png 952,1,2893,1625,0 1,1,947,1555,0 1539,739,2255,925,1
+CarPlate_dataset/images/car1611.png 585,63,2763,1795,0 2744,1,4032,1487,0 1187,920,2004,1152,1
+CarPlate_dataset/images/car1612.png 279,1,3039,1812,0 2939,287,4032,1895,0 1377,1425,1909,1714,1
+CarPlate_dataset/images/car1613.png 955,1,3455,1847,0 4,55,1163,1677,0 1682,960,2517,1187,1
+CarPlate_dataset/images/car1614.png 501,1,2925,1885,0 2933,1,4032,1763,0 1206,890,2063,1163,1
+CarPlate_dataset/images/car1615.png 571,1,3047,2033,0 3047,474,4032,2195,0 1344,1252,2160,1512,1
+CarPlate_dataset/images/car1616.png 668,195,2590,1712,0 2698,1,4032,2098,0 1171,901,1898,1125,1
+CarPlate_dataset/images/car1617.png 687,95,2844,2014,0 1287,1063,2131,1312,1
+CarPlate_dataset/images/car1618.png 1,174,2398,1977,0 2563,136,4032,2268,0 706,1168,1331,1495,1
+CarPlate_dataset/images/car1619.png 725,28,3098,1920,0 1398,963,2241,1204,1
+CarPlate_dataset/images/car1620.png 728,1,2663,1636,0 1396,1404,1850,1614,1
+CarPlate_dataset/images/car1701.png 75,222,662,720,0 275,443,474,502,1
+CarPlate_dataset/images/car1702.png 63,245,657,739,0 255,483,461,536,1
+CarPlate_dataset/images/car1703.png 77,231,657,686,0 520,227,672,375,0 630,214,720,320,0 311,593,441,657,1
+CarPlate_dataset/images/car1704.png 56,204,624,747,0 288,556,405,620,1
+CarPlate_dataset/images/car1705.png 86,218,651,735,0 1,210,91,335,0 253,564,458,623,1
+CarPlate_dataset/images/car1706.png 40,209,664,702,0 619,202,720,302,0 232,441,446,496,1
+CarPlate_dataset/images/car1707.png 85,195,638,647,0 266,411,453,462,1
+CarPlate_dataset/images/car1708.png 41,178,683,707,0 251,576,484,634,1
+CarPlate_dataset/images/car1709.png 69,278,675,746,0 619,237,720,356,0 253,496,463,549,1
+CarPlate_dataset/images/car1710.png 41,220,624,712,0 245,617,422,660,1
+CarPlate_dataset/images/car1711.png 84,167,621,740,0 261,422,453,473,1
+CarPlate_dataset/images/car1712.png 109,322,600,715,0 271,586,437,629,1
+CarPlate_dataset/images/car1713.png 78,270,652,723,0 275,611,464,655,1
+CarPlate_dataset/images/car1714.png 59,235,660,719,0 274,582,472,630,1
+CarPlate_dataset/images/car1715.png 59,211,669,771,0 287,479,418,545,1
+CarPlate_dataset/images/car1718.png 95,208,632,742,0 273,522,433,560,1
+CarPlate_dataset/images/car1719.png 85,232,630,705,0 579,194,720,445,0 440,202,581,300,0 275,579,460,622,1
+CarPlate_dataset/images/car1720.png 57,207,643,725,0 620,206,720,334,0 251,592,436,641,1
+CarPlate_dataset/images/car1801.png 81,328,1029,1102,0 376,775,695,852,1
+CarPlate_dataset/images/car1802.png 169,351,934,1076,0 426,906,722,975,1
+CarPlate_dataset/images/car1803.png 161,352,952,1031,0 408,904,695,971,1
+CarPlate_dataset/images/car1804.png 39,332,915,1041,0 358,815,536,908,1
+CarPlate_dataset/images/car1805.png 134,351,968,1021,0 279,854,514,931,1
+CarPlate_dataset/images/car1806.png 106,296,1080,1076,0 118,348,175,381,0 184,335,248,374,0 1,328,105,434,0 379,898,726,971,1
+CarPlate_dataset/images/car1807.png 34,345,981,1174,0 311,836,635,921,1
+CarPlate_dataset/images/car1808.png 112,246,1002,1012,0 365,669,685,742,1
+CarPlate_dataset/images/car1813.png 89,228,1059,1108,0 452,986,679,1085,1
+CarPlate_dataset/images/car1814.png 88,369,991,1309,0 335,1146,699,1224,1
+CarPlate_dataset/images/car1815.png 51,308,1075,1206,0 345,1098,722,1176,1
+CarPlate_dataset/images/car1816.png 31,399,996,1279,0 348,1146,701,1239,1
+CarPlate_dataset/images/car1817.png 58,335,1042,1282,0 291,1139,694,1228,1
+CarPlate_dataset/images/car1818.png 69,316,971,1199,0 381,1031,721,1132,1
+CarPlate_dataset/images/car1819.png 60,289,1055,1269,0 371,1119,739,1201,1
+CarPlate_dataset/images/car1820.png 34,349,999,1185,0 322,1092,692,1172,1
